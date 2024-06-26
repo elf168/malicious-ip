@@ -38,24 +38,24 @@ The IP addresses of Google bots and Bing bots are removed from all files so as n
 - [Contact](https://github.com/romainmarcoux/malicious-ip#contact)
 
 # Statistics
-Update of the following table: 2024-06-26 08:44 CEST
+Update of the following table: 2024-06-27 20:44 CEST
 
 | Malicious IP addresses in full-\*                          | %       | Number of IPs |
 | ---------------------------------------------------------- | ------- | ------------- |
-| Present in 6 sources and more | 3.57 % | 45 224 |
-| Present in 5 sources | 1.44 % | 18 227 |
-| Present in 4 sources | 2.54 % | 32 204 |
-| Present in 3 sources | 2.83 % | 35 823 |
-| Present in 2 sources | 6.25 % | 78 991 |
-| Present in 1 source | 83.34 % | 1 053 150 |
-| Total | 100 % | 1 263 619 |
+| Present in 6 sources and more | 3.52 % | 45 656 |
+| Present in 5 sources | 1.43 % | 18 562 |
+| Present in 4 sources | 2.55 % | 33 064 |
+| Present in 3 sources | 2.89 % | 37 430 |
+| Present in 2 sources | 6.09 % | 78 920 |
+| Present in 1 source | 83.49 % | 1 080 650 |
+| Total | 100 % | 1 294 282 |
 
-Update of the common IP table with the FortiGate ISDB Malicious-Malicious.Server: 2024-06-26 01:31 CEST
+Update of the common IP table with the FortiGate ISDB Malicious-Malicious.Server: 2024-06-27 01:31 CEST
 
 | FortiGate models                                           | full-\* IPs common with ISDB |
 | ------------------------------------------------------------ | ----------- |
-| 100F and below | 5.58 % |
-| 200F and above | 10.11 % |
+| 100F and below | 5.75 % |
+| 200F and above | 10.88 % |
 
 History of statistics [here](https://github.com/romainmarcoux/malicious-ip/blob/main/statistics/historical_statistics.md).
 
